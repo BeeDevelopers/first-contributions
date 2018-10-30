@@ -5,5 +5,6 @@
 - [Juan Carlos Gomez](https://github.com/jcgcarranza)
 - [Jaime Saul Alonso Sanchez](https://github.com/luase)
 - [Sandra Bravo](https://github.com/SandraPAM)
+- [BeeDevelopers](https://github.com/BeeDevelopers)
 
 
