@@ -1,2 +1,4 @@
 - [Eduardo](https://github.com/EduardoGHdez)
-[Jaime Saul Alonso Sanchez](https://github.com/luase)
+- [Juan Carlos Gomez](https://github.com/jcgcarranza)
+- [Jaime Saul Alonso Sanchez](https://github.com/luase)
+
