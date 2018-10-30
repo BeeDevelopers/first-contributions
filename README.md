@@ -1,1 +1,2 @@
 - [Eduardo](https://github.com/EduardoGHdez)
+- [Jose Miguel](https://github.com/dezcor)
