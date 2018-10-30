@@ -1,2 +1,5 @@
 - [Eduardo](https://github.com/EduardoGHdez)
 - [Alexis RM](https://github.com/AlexMora-0110)
+- [Roberto García](https://github.com/Rivert97)
+- [Juan Carlos Gomez](https://github.com/jcgcarranza)
+- [Jaime Saul Alonso Sanchez](https://github.com/luase)
