@@ -1,1 +1,2 @@
 - [Eduardo](https://github.com/EduardoGHdez)
+- [Hugo Belman](https://github.com/hugobelman)
