@@ -1,1 +1,1 @@
-- [Eduardo](https://github.com/EduardoGHdez)
+- [Eduardo Hernandez](https://github.com/EduardoGHdez)
