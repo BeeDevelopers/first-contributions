@@ -1,1 +1,2 @@
 - [Eduardo](https://github.com/EduardoGHdez)
+- [Juan Carlos Gomez](https://github.com/jcgcarranza)
