@@ -1,4 +1,5 @@
 - [Eduardo](https://github.com/EduardoGHdez)
+- [Jose Miguel](https://github.com/dezcor)
 - [Hugo Belman](https://github.com/hugobelman)
 - [Alexis RM](https://github.com/AlexMora-0110)
 - [Roberto García](https://github.com/Rivert97)
@@ -6,5 +7,3 @@
 - [Jaime Saul Alonso Sanchez](https://github.com/luase)
 - [Sandra Bravo](https://github.com/SandraPAM)
 - [BeeDevelopers](https://github.com/BeeDevelopers)
-
-
