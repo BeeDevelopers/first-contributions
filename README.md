@@ -1,4 +1,5 @@
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
+- [Salvador](https://github.com/SalvadorHellsing95)
 - [Jose Miguel](https://github.com/dezcor)
 - [Hugo Belman](https://github.com/hugobelman)
 - [Alexis RM](https://github.com/AlexMora-0110)
